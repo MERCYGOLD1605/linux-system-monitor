@@ -13,9 +13,11 @@ A real-time Linux system monitoring project built using Python and Power BI.
 ## 🛠 Technologies Used
 
 - Python
+- Linux
+- Power BI
 - Pandas
 - Psutil
-- Power BI
+- CSV Data Logging
 
 ## 📊 Dashboard
 
